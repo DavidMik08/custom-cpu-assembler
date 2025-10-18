@@ -2,7 +2,8 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <bits/stdc++.h>
+#include <algorithm>
+#include <cctype>
 using namespace std;
 
 class definition {
